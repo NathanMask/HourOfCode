@@ -1,0 +1,33 @@
+// simple snowman
+
+
+
+background(157, 157, 245);
+ellipse(76, 61, 97, 97);//sun
+fill(131, 199, 133);
+rect(9,372,377,134);//ground
+
+
+
+
+
+
+fill(163, 186, 214);
+ellipse(200, 300, 150, 150);//snowman
+ellipse(200, 200, 100, 100);
+ellipse(200, 120, 75, 75);
+
+
+fill(0, 0, 0);
+ellipse(181,111,10,10);//eyes
+ellipse(217,111,10,10);
+
+fill(240, 91, 91);
+triangle(145,138,195,131,194,116);//carrot
+
+fill(18, 5, 5);
+rect(148,72,103,16);//hat
+rect(169,21,57,52);
+
+line(349,159,249,187);//arms
+line(61,181,152,194);
